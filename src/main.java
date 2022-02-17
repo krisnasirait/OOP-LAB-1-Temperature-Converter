@@ -40,6 +40,7 @@ public class main {
                    System.out.println("Dalam Fahrenheit \t: " + degreeProcessing.fahrenheit + " \u2109");
                    System.out.println("Dalam Reamur \t\t: " + degreeProcessing.reamur + " \u00B0R");
                    System.out.println("Dalam Kelvin \t\t: " + degreeProcessing.kelvin + " \u212A");
+                   System.out.println(degreeProcessing.waterCond);
 
                    break;
 
@@ -57,6 +58,7 @@ public class main {
                    System.out.println("Dalam Fahrenheit \t: " + edtDegree.fahrenheit + " \u2109");
                    System.out.println("Dalam Reamur \t\t: " + edtDegree.reamur + " \u00B0R");
                    System.out.println("Dalam Kelvin \t\t: " + edtDegree.kelvin + " \u212A");
+                   System.out.println(edtDegree.waterCond);
                    break;
 
                case 3:
